@@ -4,7 +4,7 @@ const ProjectsData = [
     thumbnail: 'https://neercareagro.com/wp-content/uploads/2020/12/neercare-glow-1024x683.png',
     title: 'Neercareagro',
     desc : ' ',
-    live: 'https://neercareagro.com/',
+    live: 'https://neercare.in/',
   },
   // {
   //   id: 1,
