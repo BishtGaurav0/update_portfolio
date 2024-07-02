@@ -18,7 +18,7 @@ const Experience = () => {
               <h2> Luezoid Technologies - Frontend Developer </h2>
 
               <div className="exp-details">
-                <h5> 06/2022-Present </h5>
+                <h5> 06/2022-05/2024 </h5>
                 <h5> Delhi </h5>
               </div>
 

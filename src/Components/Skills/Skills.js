@@ -8,11 +8,14 @@ import {
   SiRedux,
   SiExpress,
   SiGithub,
+  SiTypescript,  
+  SiNextdotjs,   
 } from "react-icons/si";
-import { FaBootstrap, FaReact,} from "react-icons/fa";
+import { FaBootstrap, FaReact } from "react-icons/fa";
 import { IoLogoNodejs } from "react-icons/io";
 import { Bounce, Zoom } from "react-reveal";
 import { SkillsContainerWrapper } from "./SkillsStyled";
+
 
 const Skills = () => {
   return (
@@ -77,6 +80,16 @@ const Skills = () => {
             <div>
               <SiGithub className="skill_icon github_icon" />
               <h2> Github </h2>
+            </div>
+
+            <div>
+              <SiTypescript className="skill_icon typescript_icon" />
+              <h2> TypeScript </h2>
+            </div>
+
+            <div>
+              <SiNextdotjs className="skill_icon nextjs_icon" />
+              <h2> Next.js </h2>
             </div>
           </div>
         </Zoom>
